@@ -16,6 +16,18 @@ O projeto é baseado no código apresentado neste vídeo:
 
 > **[Link do Vídeo](https://www.youtube.com/watch?v=-fzN_JXVrMs)**
 
+### Capturas de Tela
+
+Abaixo estão algumas capturas de tela do projeto em execução, mostrando a interação no terminal:
+
+#### Exemplo de Interação 1
+
+![Exemplo de Interação 1](imagem_demo_2.png)
+
+#### Exemplo de Interação 2
+
+![Exemplo de Interação 2](imagem_demo_1.png)
+
 ## Configuração e Instalação
 
 ### Pré-requisitos
