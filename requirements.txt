@@ -1,0 +1,7 @@
+python-dotenv
+SpeechRecognition
+boto3
+requests
+googletrans==4.0.0-rc1
+pygame
+pyaudio
